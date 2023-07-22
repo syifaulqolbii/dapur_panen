@@ -1,5 +1,4 @@
 <x-layout>
-
     <!-- Hero Section -->
     <header class="bg-putih z-0 flex items-center w-full justify-between overflow-hidden relative">
         <div class="pt-[180px] px-[9.313rem] mb-[80px] flex items-end justify-between">
@@ -14,7 +13,6 @@
             </div>
         </div>
     </header>
-
     <!--Image Section-->
     <section>
         <div class="w-full">

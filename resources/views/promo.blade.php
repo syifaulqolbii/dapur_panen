@@ -1,5 +1,4 @@
 <x-layout>
-
     <!-- Hero Section -->
     <header class="bg-putih flex items-center w-full justify-between pr-[143px]">
         <div class="pt-[14.25rem] pl-[9.313rem] w-[675px] mb-[11.625rem] flex flex-col">
